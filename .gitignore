@@ -1,5 +1,12 @@
-<doctype html>
-<doby>
-<title> olá<title>
+<Html>
+<head>
+ <title>Olá isso é um teste</title>
+<HEAD>
+<body>
+<h1>isso é um teste pro meu site (html)
+<p>Eu vi um cara ensinando então vim testar</p>
+<Button>exit</button>
 
-<doby>
+</body>
+
+<html>
